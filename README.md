@@ -31,7 +31,7 @@
 
 ### I post actively on ...
 
-<a href="#" title="Muhammad Noman" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/muhammad-noman-b081b52a9/" title="Muhammad Noman" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
 
 ### You can also find me on ...
 
