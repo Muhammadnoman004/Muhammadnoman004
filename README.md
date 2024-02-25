@@ -29,6 +29,21 @@
 <a href="" title="FIREBASE" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 
 
+<h3 align="left">🏫 Plans of Learning :</h3>
+
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=nestjs,threejs,tensorflow,docker" />
+	<img src="https://skillicons.dev/icons?i=bash,redis,wasm,webflow,jest" />
+	<img src="https://skillicons.dev/icons?i=kubernetes,fastapi,d3,swift,aws" />
+	<a href="https://www.cypress.io" target="_blank" rel="noreferrer" title="Full Web Testing">
+		<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
+			alt="cypress" width="40" height="40" />
+	</a>
+	
+</p>
+<hr>
+
+
 ### I post actively on ...
 
 <a href="https://www.linkedin.com/in/muhammad-noman-b081b52a9/" title="Muhammad Noman" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
