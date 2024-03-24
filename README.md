@@ -50,6 +50,8 @@
 
 <a href="https://www.linkedin.com/in/muhammad-noman-b081b52a9/" title="Muhammad Noman" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
 
+<hr>
+
 ### You can also find me on ...
 
 <a href="mailto:nomanshamim2004@gmail.com" target="_blank" title="huzaifakhanofficial01@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
