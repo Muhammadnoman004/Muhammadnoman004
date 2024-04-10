@@ -55,3 +55,8 @@
 ### You can also find me on ...
 
 <a href="mailto:nomanshamim2004@gmail.com" target="_blank" title="huzaifakhanofficial01@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
+
+<hr>
+
+<h3> ✍️ Random Dev Quote </h3>
+<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia' />
