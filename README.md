@@ -20,30 +20,19 @@
 <a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://nextjs.org/" title="NextJs" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="30" height="30"/> </a>&nbsp;&nbsp;
 <a href="" title="Postman" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<hr>
-
-
-### I have also worked with ...
-
-
 <a href="" title="HTML" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="CSS" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="BOOTSTRAP" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="FIREBASE" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<hr>
+
 
 
 ### I post actively on ...
 
 <a href="https://www.linkedin.com/in/muhammad-noman-b081b52a9/" title="Muhammad Noman" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
 
-<hr>
 
 ### You can also find me on ...
 
 <a href="mailto:nomanshamim2004@gmail.com" target="_blank" title="huzaifakhanofficial01@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
 
-<hr>
-
-<h3> ✍️ Random Dev Quote </h3>
-<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia' />
