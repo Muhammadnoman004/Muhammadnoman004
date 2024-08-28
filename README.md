@@ -1,5 +1,16 @@
-## Hello👋 I'm Muhammad Noman ‍💻 
+<h1 align="center">Hi 👋, I'm Muhammad Noman ‍💻 </h1>
 
+<h3 align="center">I'm a front-end developer passionate about building innovative and user-friendly applications with a focus on scalability.</h3>
+
+- 🌱 I’m currently learning **MongoDB, React Native, Docker and NodeJS.**
+
+- 👨‍💻 All of my projects are available at [https://muhammad-noman.vercel.app](https://muhammad-noman.vercel.app/)/]
+
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS and Firebase**
+
+- 📫 How to reach me **nomanshamim2004@gmail.com**
+
+- 📝 See my resume: <a href="https://drive.google.com/file/d/1d7eToKJ0uoIf2uybdvCNyv2pvhj_-HCf/view?usp=sharing" target="_blank">Click here ...</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammadnoman004&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammadnoman004" /> </p>
 
