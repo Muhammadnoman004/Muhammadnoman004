@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **MongoDB, React Native, Docker and NodeJS.**
 
-- 👨‍💻 All of my projects are available at [https://muhammad-noman.vercel.app](https://muhammad-noman.vercel.app/)/]
+- 👨‍💻 All of my projects are available at [https://muhammad-noman.vercel.app](https://muhammad-noman.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS and Firebase**
 
