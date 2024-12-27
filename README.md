@@ -2,6 +2,9 @@
 
 <h3 align="center">I'm a front-end developer passionate about building innovative and user-friendly applications with a focus on scalability.</h3>
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Muhammadnoman004&data=followers,repositories,stars,commits&theme=darkmode&hide_border=true)](https://github.com/Muhammadnoman004/)
+
+
 - 🌱 I’m currently learning **MongoDB, React Native, Docker and NodeJS.**
 
 - 👨‍💻 All of my projects are available at [https://muhammad-noman.vercel.app](https://muhammad-noman.vercel.app/)
