@@ -24,6 +24,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadnoman004&bg_color=020612&color=f5f6fa&line=fbfaf9&point=e39102&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammadnoman004&show_icons=true&locale=en&layout=compact" alt="Muhammadnoman004" /></p>
+
 
 ### Languages And Tools:
 
